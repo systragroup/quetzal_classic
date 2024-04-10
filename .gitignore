@@ -8,3 +8,6 @@ log/
 
 scenarios/*/outputs/
 
+ scenarios/atlanta/inputs/road/*
+ scenarios/houston/inputs/road/*
+ scenarios/dallas/inputs/road/*
