@@ -7,7 +7,6 @@ temp/
 log/
 
 scenarios/*/outputs/
-
- scenarios/atlanta/inputs/road/*
- scenarios/houston/inputs/road/*
- scenarios/dallas/inputs/road/*
+scenarios/atlanta/inputs/road/road_links.geojson
+scenarios/houston/inputs/road/road_links.geojson
+scenarios/dallas/inputs/road/road_links.geojson
