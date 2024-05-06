@@ -8,5 +8,6 @@ quetzal/.venv
 quetzal/wheels-cp38-win_amd64
 quetzal/docker/infra
 quetzal_classic/scenarios/*
-quetzal_classic/inputs/*
+quetzal_classic/inputs/zones.zip
+quetzal_classic/inputs/zones/*
 quetzal_classic/.git/objects
